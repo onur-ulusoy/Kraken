@@ -1,0 +1,65 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>exit_dark.png</file>
+    <file>exit_grey.png</file>
+    <file>plus_blue.png</file>
+    <file>plus_red.png</file>
+    <file>plus.png</file>
+    <file>home.png</file>
+    <file>settings.png</file>
+    <file>minimize.png</file>
+    <file>maximize.png</file>
+    <file>exit.png</file>
+    <file>menu.png</file>
+  </qresource>
+  <qresource prefix="flag">
+    <file>tr-flagIcon.png</file>
+    <file>uk-flagIcon.png</file>
+    <file>de-flagIcon.png</file>
+  </qresource>
+  <qresource prefix="newShortcut">
+    <file>new.png</file>
+  </qresource>
+  <qresource prefix="user">
+    <file>archiveSc.png</file>
+    <file>archiveMini.png</file>
+    <file>aboutusSc.png</file>
+    <file>academicSc.png</file>
+    <file>cateringSc.png</file>
+    <file>mainmenuSc.png</file>
+    <file>aboutUsMini.png</file>
+    <file>programSc.png</file>
+    <file>profile.png</file>
+    <file>academicMini.png</file>
+    <file>cateringMini.png</file>
+    <file>mainMenuMini.png</file>
+    <file>programMini.png</file>
+    <file>program.png</file>
+    <file>academic.png</file>
+    <file>aboutus.png</file>
+    <file>catering.png</file>
+    <file>mainmenu.png</file>
+    <file>tick_dark.png</file>
+    <file>cancel_dark.png</file>
+    <file>tick.png</file>
+    <file>cancel_grey.png</file>
+    <file>ok_dark.png</file>
+    <file>ok_grey.png</file>
+    <file>exit_dark.png</file>
+    <file>exit_grey.png</file>
+    <file>edit_grey.png</file>
+    <file>edit_dark.png</file>
+    <file>ok.png</file>
+    <file>cancel.png</file>
+    <file>edit.png</file>
+    <file>miniProfile.png</file>
+    <file>userLarge.png</file>
+  </qresource>
+  <qresource prefix="terminal">
+    <file>k.png</file>
+    <file>repair.png</file>
+    <file>windowicon.png</file>
+    <file>krakenLogo.png</file>
+    <file>terminal.png</file>
+  </qresource>
+</RCC>
